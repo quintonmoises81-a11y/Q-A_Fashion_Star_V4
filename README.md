@@ -1,2 +1,1 @@
-# Q-A_Fashion_Star_V4
-Loja Online
+Q-A_Fashion_Star_V4
